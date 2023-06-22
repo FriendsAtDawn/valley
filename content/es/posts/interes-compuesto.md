@@ -3,10 +3,8 @@ title: "Interés compuesto"
 description: "Introducción a la siguiente entrada"
 draft: false
 tags: ["interés", "compuesto", "interés compuesto contínuo", "ICC", "matemáticas"]
-date: 2023-03-07
+date: 2023-06-17
 ---
-
-## Interés compuesto
 
 Una definición bastante precisa de lo que es interés compuesto lo da Llambías cuando dice:
 
@@ -18,7 +16,7 @@ $$
 I = C \times \Delta t \times ratio
 $$
 
-Casi intuitivamente que esos valores constantes ---salvo el tiempo que pasa--- van a dibujar una recta en las coordenadas cartesianas, merced justamente a que el tiempo sucede instante tras instante:
+Casi intuitivamente conocemos que esos valores constantes ---salvo el tiempo que pasa--- van a dibujar una recta en las coordenadas cartesianas, merced justamente a que el tiempo sucede instante tras instante:
 
 Así si partimos desde un 
 
@@ -32,7 +30,7 @@ $$
 ratio = 33%
 $$
 
-![IntSimple](/posts/img/iss.png)
+![IntSimple](https://bafkreiesrcvo2lgml5crzvgzglwyxtxf3fgw2o7ceddxlj7o3htbbtggvi.ipfs.nftstorage.link/)
 
 Una ecuación de primera grado siempre genera rectas.
 
@@ -72,7 +70,9 @@ $$
 V_f = 100 \times 6.32 = 632
 $$
 
-![Interes](/posts/img/compuesto.png)
+![Interes Compuesto](https://bafkreig7rjd4wbrtcbfhmunorxkvywbn4ktryvqmdy72kjgafelwyrdjyq.ipfs.nftstorage.link/)
+
+O sea que el llamado "interés francés" es en realidad un interés compuesto que, además, se capitaliza de instante a instante.
 
 ¿Es legal esto? Sí, claro. Siempre y cuando la llamada *tasa efectiva* no supere los límites usurarios. En el caso, lo hace. Así que para el mismo, no.
 
@@ -99,4 +99,3 @@ La _delta_ minúscula es el ratio de interés _cambiante_ por decirlo de una for
 Esta fórmula nos parece familiar ya... Sí, ¿no es la fórmula del interés francés?
 
 
----
