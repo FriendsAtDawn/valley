@@ -41,3 +41,4 @@ Pero estamos lejos de esa clase de discusiones. Sólo queremos entender mediante
 En ambos casos estoy sujeto a las condiciones de la acción cambiaria.
 
 Las demás acciones que no son esas acciones no es deseable que se las llame _acciones causales_ en tanto que en nada se diferencia de cualquiera otra acción ordinaria.
+
