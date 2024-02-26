@@ -1,5 +1,5 @@
 ---
-Title: "How to deal with infected Judisoft^TM pdfs."
+Title: "How to deal with infected Judisoft<sup>TM</sup> pdfs."
 Description: "Survival guide."
 draft: false
 date: 2024-02-07
@@ -7,13 +7,13 @@ date: 2024-02-07
 
 Document status: 0.5
 
-It is not my intention to discredit Judisoft^[TM] with these brief lines, which even the modest epithet "article" loosely fits. The implementation of the system is by far the most important leap forward in access to justice and a major contributor to cost reduction. It is a success in every sense of the word.
+It is not my intention to discredit Judisoft<sup>TM</sup> with these brief lines, which even the modest epithet "article" loosely fits. The implementation of the system is by far the most important leap forward in access to justice and a major contributor to cost reduction. It is a success in every sense of the word.
 
 ## Frequency.
 
 It is because I have intensive dealings with all the courts and intensive dealings with only a handful of lawyers that I refer more to documents emanating from the courts than to those filed by colleagues.  It is a question of frequency.
 
-I have never received an infected pdf uploaded by a colleague. In that sense, I don't know. Judisoft seems to have more control.
+I have never received an infected pdf uploaded by a colleague. In that sense, I don't know. Judisoft<sup>TM</sup> seems to have more control.
 
 ## Preliminaries.
 
@@ -23,7 +23,7 @@ It depends on what you mean by virus. It has suspicious or outright malicious co
 
 ### Do they all have it, or even the vast majority?
 
-No, --- in my experience --- very few pdfs are infected, given the sheer volume of them. But it is not unreasonable to think that their number is growing. In fact, the file shown here as an example seems to have been duplicated in another file; although it came from a file containing a query of mine, it was attached to another list. As we know very little about how Judisoft[^1] works, this could be another kind of bug.
+No, --- in my experience --- very few pdfs are infected, given the sheer volume of them. But it is not unreasonable to think that their number is growing. In fact, the file shown here as an example seems to have been duplicated in another file; although it came from a file containing a query of mine, it was attached to another list. As we know very little about how Judisoft<sup>TM</sup>[^1] works, this could be another kind of bug.
 
 ### Are they dangerous, should I be careful?
 
@@ -55,7 +55,7 @@ If I sign a pdf (who would even think of signing a pdf? Someone who's come to th
 
 ### Do they all have it, or even the vast majority?
 
-No, --- in my experience --- very few pdfs are infected, given the sheer volume of them. But it is not unreasonable to think that their number is growing. In fact, the file shown here as an example seems to have been duplicated in another file; although it came from a file containing a query of mine, it was attached to another list. As we know very little about how Judisoft[^1] works, this could be another kind of bug.
+No, --- in my experience --- very few pdfs are infected, given the sheer volume of them. But it is not unreasonable to think that their number is growing. In fact, the file shown here as an example seems to have been duplicated in another file; although it came from a file containing a query of mine, it was attached to another list. As we know very little about how Judisoft<sup>TM</sup>[^1] works, this could be another kind of bug.
 
 ### Are they dangerous, should I be careful?
 
