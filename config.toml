@@ -60,10 +60,11 @@ enableRobotsTXT = true
     contentDir = "content/es"
   # languageDirection = 'rtl' for Right-To-Left languages
 
-  #[languages.fr]
-  #  title = "Ananke Fr"
-  #  weight = 2
-  #  contentDir = "content/fr"
+  [languages.en]
+    title = "Wilson Villalba"
+    description = "Blog"
+    weight = 2
+    contentDir = "content/en"
 
 [sitemap]
   changefreq = "monthly"
@@ -87,4 +88,3 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
   name = "telegram"
   url = "https://t.me/habermas"
-
