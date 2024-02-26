@@ -1,6 +1,6 @@
 title = "Wilson Villalba"
 baseURL = "/"
-languageCode = "es"
+languageCode = "en-us"
 theme = ["hugo-embed-pdf-shortcode", "ananke"]
 enableInlineShortcodes = true
 resourceDir = "../resources"
@@ -79,11 +79,11 @@ enableRobotsTXT = true
   description = "Litigios."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-blue"
-  recent_posts_number = 3
+  recent_posts_number = 8
   post_content_classes = "athelas"
   body_classes = "times"
   feature_image = "/images/cover.jpg"
-  mainSections = ['posts', 'modelos']
+  mainSections = ['otros', 'posts', 'modelos']
 
 [[params.ananke_socials]]
   name = "telegram"
