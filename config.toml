@@ -17,11 +17,21 @@ enableRobotsTXT = true
 
 [menu]
 
+#[[menu.main]]
+#   identifier = 'servidor-1'
+#   name = 'buscar jurisprudencia: servidor 01'
+#   url = 'https://rcsj.0007407.xyz'
+#   weight = 110
 [[menu.main]]
-    identifier = 'jurisprudencia'
-    name = 'buscador de jurisprudencia'
-    url = 'https://rcsj.0007407.xyz'
-    weight = 110
+    identifier = 'servidor-2'
+    name = 'servidor 02 '
+    url = 'https://firmus.site/recoll/'
+    weight = 120
+[[menu.main]]
+    identifier = 'servidor-3'
+    name = 'servidor 03'
+    url = 'https://2nd.firmus.site/recoll/'
+    weight = 130
   [[menu.main]]
     identifier = 'villalba.is'
     name = 'villalba.is'
@@ -55,7 +65,7 @@ enableRobotsTXT = true
 
   [languages.es]
     title = "Wilson Villalba"
-    description = "Litigios"
+    description = "Litigios. Buscador de Jurisprudencia."
     weight = 1
     contentDir = "content/es"
   # languageDirection = 'rtl' for Right-To-Left languages
@@ -76,7 +86,7 @@ enableRobotsTXT = true
   author = "Wilson Villalba"
   favicon = "vvv.svg"
   site_logo = "vvv.svg"
-  description = "Litigios."
+  description = "Litigios. Buscador de jurisprudencia."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-blue"
   recent_posts_number = 8

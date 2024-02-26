@@ -9,7 +9,7 @@ Document status: 0.5
 
 It is not my intention to discredit Judisoft(TM) with these brief lines, which even the modest epithet _article_ loosely fits. The implementation of the system is by far the most important leap forward in access to justice and a major contributor to cost reduction. It is a success in every sense of the word.
 
-## Frequency: $$\frac{1}{t}$$
+## Frequency: $$\tfrac{1}{t}$$
 
 It is because I have intensive dealings with all the courts and intensive dealings with only a handful of lawyers that I refer more to documents emanating from the courts than to those filed by colleagues.  It is a question of frequency.
 
