@@ -9,7 +9,7 @@ Document status: 0.5
 
 It is not my intention to discredit Judisoft(TM) with these brief lines, which even the modest epithet _article_ loosely fits. The implementation of the system is by far the most important leap forward in access to justice and a major contributor to cost reduction. It is a success in every sense of the word.
 
-## Frequency.
+## Frequency: $$\frac{1}{t}$$
 
 It is because I have intensive dealings with all the courts and intensive dealings with only a handful of lawyers that I refer more to documents emanating from the courts than to those filed by colleagues.  It is a question of frequency.
 
@@ -53,7 +53,7 @@ As far as the judges are concerned, it is impossible to even think of the same p
 
 ## The judges were careless?
 
-If I sign a ```pdf``` (who would think of signing a ```pdf``? Someone who came up with the idea that text files are not sexy enough) with my electronic signature, probably not certified, the date is taken from [```Sectigo```](https://sectigo.com). If judges do it, they... they take it from their PC. INTN has an NTP server.
+If I sign a ```pdf``` (who would think of signing a ```pdf```? Someone who came up with the idea that text files are not sexy enough) with my electronic signature, probably not certified, the date is taken from [```Sectigo```](https://sectigo.com). If judges do it, they... they take it from their PC. INTN has an NTP server.
 
 The embedded code is visible to the naked eye, but the Windows antivirus doesn't detect it.
 
@@ -63,7 +63,7 @@ So no. It's not their fault.
 
 But I'm safe from them. I've had problems with Paperless-ngx detecting them. I don't use very popular systems, and the codes I've seen so far are for the Windows environment.
 
-Nevertheless, I decided to remove them from my archive, because it is very easy for someone in their daily life to send some ``SD`` via email and infect someone else's PC that way.
+Nevertheless, I decided to remove them from my archive, because it is very easy for someone in their daily life to send some "SD" via email and infect someone else's PC that way.
 
 At least that's what I thought. That I was safe. But today I checked the ```dns``` traffic in the office... and no, my pdfs have been ```calling home``` for a while, it's just that after one site made too many requests and downloaded about 1Gb of I don't know what, the server blocked that traffic and sent me a message. The kind I never read.
 
@@ -77,13 +77,13 @@ I can't tell you that the solution is to block ```dns``` requests. And I don't t
 
 I took these emergency steps
 
-- Disable WebRtc: you can do this with an extension that is available for a number of browsers and in a number of flavours.
+- Disable WebRTC: you can do this with an extension that is available for a number of browsers and in a number of flavours.
 
 - Do not allow any ```pdf``` files to be displayed in the browser.
 
 - Keep the local database out of reach of the internet -- if possible; the internet is everywhere.
 
-I have had infected pdfs for printing and scanning. It's the only thing I can do, although I know it's a long shot.
+I have had infected ```pdfs`` for printing and scanning. It's the only thing I can do, although I know it's a long shot.
 
 I can't do what some sites recommend:
 
