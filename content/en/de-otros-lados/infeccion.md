@@ -100,3 +100,5 @@ On the contrary, control can be improved.
 But... there is a complaint form that is made in ```Google Form```; if there is no time to make a ```<form>```, there will be no time to make an API.
 
 [^1]: And as far as I know, no one has used the Transparency Act to request Judisoft's source code.
+
+{{< graphcomment >}}
