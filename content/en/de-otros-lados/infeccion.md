@@ -1,6 +1,6 @@
 ---
-Title: "How to deal with infected Judisoft^TM pdfs".
-Description: "Survival guide".
+Title: "How to deal with infected Judisoft^TM pdfs."
+Description: "Survival guide."
 draft: false
 date: 2024-02-07
 ---
