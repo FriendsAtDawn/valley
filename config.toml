@@ -93,8 +93,14 @@ enableRobotsTXT = true
   post_content_classes = "athelas"
   body_classes = "times"
   feature_image = "/images/cover.jpg"
-  mainSections = ['de-otros-lados', 'posts', 'modelos']
+  mainSections = ['de-otros-lados','posts', 'modelos', 'plra']
 
 [[params.ananke_socials]]
   name = "telegram"
   url = "https://t.me/habermas"
+
+  [[params.ananke_socials]]
+  name = "bmc-logo"
+  url = "https://www.buymeacoffee.com/isvillalba"
+
+

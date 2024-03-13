@@ -1,9 +1,13 @@
 ---
 title: "Timestampi, qu'est-ce que c'est?"
-description: "And all the King's horses and all The King's men, couldn't put Humpty together again"
+description: "And all the King's horses  
+             and all The King's men,  
+             couldn't put Humpty  
+             together again"
 tags: ["firma", "e-firma", "timestamp"]
 draft: false
 date: 2023-12-02
+featured_image: "/images/stampel.png"
 ---
 
 Las siguientes líneas cargan con dos o tres simplificaciones, porque entiendo que su extensión implican algo más que el discurso propio del derecho. Anoto que la e-sign está definida por sumas y por potenciaciones a números primos muy altos; basta saber eso para conocer la naturaleza de lo que elido.
@@ -24,20 +28,3 @@ Las siguientes líneas cargan con dos o tres simplificaciones, porque entiendo q
 4. La firma electrónica de la forma en que se la ha concebido e impuesta en el medio, está rota. No vale, ni sirve a sus fines.
 
 {{< graphcomment >}}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-------

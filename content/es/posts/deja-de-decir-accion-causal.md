@@ -1,9 +1,10 @@
 ---
 title: "Ya deja de decir acción causal."
-description: "¿No ves que te hace mal?"
+description: "¿No ves que te hace mal solo a ti?"
 tags: ["acción causal", "nonsense", "consequences will never be the same"]
 draft: false
 date: 2023-03-14
+featured_image: "/images/dolor.png"
 ---
 
 
