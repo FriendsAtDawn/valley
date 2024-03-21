@@ -1,9 +1,19 @@
 ---
 title: "Incidentes"
-description: ""
+description: "Incidens"
 draft: false
 tags: ["modelos", "escritos", "recusación"]
-date: 2023-02-12
+date: 2024-03-16
+featured_image: "/images/incidente.png"
+---
+
+![](https://img.shields.io/badge/actualizado-16-03-2024-blue)
+
+
+Incidente de nulidad.
+
+{{< embed-pdf url="https://bafybeicneyqcxpzpb4uj76ns4b6rb75dzc4x2pyzonttgsoi4iarnyokny.ipfs.nftstorage.link/">}}
+
 ---
 
 {{< embed-pdf url="https://bafybeie27ygfdnp6uh5efxihcf7qwhet7misjbmdl3r6qrzgfasg4f6gtm.ipfs.nftstorage.link/" >}}
