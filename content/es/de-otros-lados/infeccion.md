@@ -84,7 +84,13 @@ Yo he tomado estas medidas de emergencia
 
 - **Mantener la base de datos local fuera** del alcance de internet --en lo posible; internet esta en todos lados.
 
-Los ```pdfs``` infectados los he impreso y escaneado. Se quen es una salida pedestre pero más no sé hacer ya que de hecho el [Paperless](https://docs.paperless-ngx.com/) corre sobre Linux
+Los ```pdfs``` infectados los he impreso y escaneado. Se quen es una salida pedestre pero más no sé hacer ya que de hecho el [Paperless](https://docs.paperless-ngx.com/) corre sobre Linux.
+
+---
+
+Posdata: El _pp_ es un hermoso _wrapper_ de por lo menos 10 programas. Desactive uno de ellos y _solucioné_: mi problema.
+
+---
 
 No puedo hacer lo que algunos sitios recomiendan:
 
@@ -98,7 +104,11 @@ Con el API, ninguna secrecia será vulnerada.
 
 Al contrario se puede mejorar el control de acceso a los recursos.
 
-Pero... hay un formularios de denuncias que están hechos en ```Google Form```; si no hay tiempo para hacer un ```<form>``` no habrá tiempo para hacer una API.
+Pero... hay un formularios de denuncias que están hechos en ```Google Form```; si no hay tiempo para hacer un ```<form>``` no habrá tiempo para hacer una API.--
+
+---
+
+Posdata: Hace unas semanas, no pude postearlo en su momento, recibí un email de la C.G.T.: estaba tan lleno de cosas extrañas que el mismo Judisoft no podía aceptarlo. No sé si colocarlo en el blog. Debe ser, para un usuario de Win, muy peligroso.
 
 {{< graphcomment >}}
 

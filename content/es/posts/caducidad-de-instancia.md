@@ -46,17 +46,13 @@ Así que tenemos tres artículos dentro del Código Procesal Civil que se refier
 
 # Entonces vi al Cordero romper el primer sello.
 
-
-
 Entonces, los supuestos de la caducidad de instancia son, además del plazo de seis meses, los requisitos que se señalan como:
-
 
 1. > cuando no se instare su curso
 
 2. > cuando no se verificare acto que tuviere por objeto impulsar el procedimiento
 
 3. > cuando hubiere inactividad de las partes
-
 
 Antes que nada ¿qué es esa palabra <<objeto>> que figura en el 173?: ¿significa la plena realización del impulso o significa la mera intención de realizarla?
 
@@ -86,7 +82,6 @@ Notamos enseguida que los supuestos del 172 y del 173 no coinciden, pero tampoco
 
 Hasta ahí nuestra hipótesis parece funcionar. ¿Pero qué pasa cuando consideramos el 174?
 
-
 El 174 excluye toda acción.
 
 Dicho de otro modo.
@@ -105,13 +100,11 @@ Y entonces, ninguno de estos artículos se contradicen, todos ellos se acercan a
 
 Si se habrá de aceptar que los artículos 172, 173 y 174 se refieren a un mismo instituto, forzoso es admitir que habrá que interpretarlos unos por otros y admitir lo siguiente:
 
-
 1. que la palabra <<objeto>> del artículo 173 del  significa no medio sino fin.
 
 2. que la palabra <<inactividad>> del artículo 174 del  significa inactividad en la medida en que la actividad desplegada se inútil para la marcha del procedimiento.
 
 Sólo así se tendrá tres artículos que sin coincidir exactamente uno con otro acercan a la idea del instituto del que se ocupan.
-
 
 Tras de análisis no hay solamente lógica sino cierto  pragmatismo que ha guiado a mi lógica hacia cierto punto, cierta intención: al que se evite que los juicios duren eternamente.
 
